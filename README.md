@@ -12,3 +12,4 @@ To use this project, you may clone the repo, then follow the steps below.
 
 Below is the end result of the app after running `cleanseNestedTodos` method. 
 
+![nested datasets rendered](./assets/render-nested.png)
